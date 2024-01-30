@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
+    <sys_atf_test_template action="INSERT_OR_UPDATE">
+        <description>The template's test steps are added to the Test Steps related list. Edit and delete steps added from a template using the same strategies used for individually added test steps. For example, if only six of the eight test steps added by a template are required for a test, a developer can add the test steps using a template, then delete the unnecessary test steps from the test. In the example, the test does not need to verify UI Action Visibility. The UI Action-related test steps can be deleted without deleting all test steps added by a template.</description>
+        <name>Test App Form</name>
+        <sys_class_name>sys_atf_test_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-30 07:26:20</sys_created_on>
+        <sys_id>a9689a259304021081dfbd4f7bba1011</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test App Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_template_a9689a259304021081dfbd4f7bba1011</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-30 07:27:29</sys_updated_on>
+        <template>33f637e8c3ba220076173b0ac3d3aee1</template>
+    </sys_atf_test_template>
+</record_update>
